@@ -24,7 +24,7 @@ The scout ranked accounting firms #1 and insurance agencies #2. Opus B argued bo
 
 ## Corrections made during review
 - Scout: removed 5 claims its cited pages didn't support, labeled vendor-sourced numbers, and filled in 5 niches it hadn't searched. Mortgage dropped from #4 to #9.
-- Opus A: the AGC "77%" estimator stat now notes it's the open-shop breakout (75% for $50–500M firms).
+- AGC estimator stat reconciled from the PDFs: 77% national, 77% open-shop, 75% at $50–500M firms, 80% at ≤$50M firms. An earlier note implying 77% was open-shop-only was too narrow.
 - Spot-verified: Basis valuation, AppFolio Claude connector, AGC survey, Billd/Siteline payment-delay figures.
 
 ## Known gap
@@ -40,3 +40,7 @@ Reddit and most practitioner forums were blocked for all agents, so **there are 
 | Biggest pro | Bonding companies require it monthly; done in Excel; best fit for finance skills | Reading long documents is a native AI task; no regulation; one extra win pays the year | Easy-to-measure ROI; small firms underserved | Highest willingness to pay | Easiest to reach; open Jobber API |
 | Biggest con | Needs construction-accounting literacy; data quality from project managers; QB Desktop | Missed-spec liability; must learn spec format; Nomic/Scopebase/Autodesk nearby | Funded rivals moving down-market (Conexiom Relay, Endeavor, WizCommerce, Avent); least-validated pain | HIPAA business-associate agreements; gated Dentrix; Weave/NexHealth/RevenueWell | Overlaps Jobber's native features; GoHighLevel agencies; low prices |
 | Regulation | Low (not CPA-signed statements) | Very low | Very low | High | Medium (texting rules) |
+
+## Phase 2 update (construction, see 04)
+- **Corrects phase 1:** "no product combines WIP, cash forecast and sub-compliance" is wrong. Adaptive (agentic construction accounting; $30M Series B Sept 2026, $57M total, 750+ contractors per its press release) covers AP, billing, WIP and compliance. Intuit's Aug 2026 release put WIP and over/under-billing reporting, AIA-style billing and change orders into QBO Advanced at no extra cost (confirmed in Intuit's release notes).
+- **Implication:** WIP *software* is commoditizing. The defensible offer is the done-for-you monthly WIP close (collect PM forecasts, reconcile to the ledger, explain variances to the surety), not a WIP report tool.

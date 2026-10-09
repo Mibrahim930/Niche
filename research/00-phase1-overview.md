@@ -29,3 +29,14 @@ The scout ranked accounting firms #1 and insurance agencies #2. Opus B argued bo
 
 ## Known gap
 Reddit and most practitioner forums were blocked for all agents, so **there are no first-hand owner quotes**. Pain must be validated in discovery calls before building.
+
+## Trade-offs by niche
+| | Construction: finance (WIP) | Construction: bidding | Wholesale distributors | Dental (Open Dental) | Home services (Jobber) |
+|---|---|---|---|---|---|
+| Buyer | Owner/controller, $2–30M GC or sub on QuickBooks | Chief estimator, $5–50M specialty sub | Owner/ops mgr, 20–200 orders/day on QuickBooks | Practice owner/office manager | Owner, 2–20 trucks |
+| Offer | WIP + job-profit dashboard, sub-compliance inbox, 13-wk cash forecast | AI Bid Desk: bid-invite triage, cited bid/no-bid brief, hit-rate dashboard | Emailed PO → order-entry agent | Unscheduled-treatment recovery | Quote/reactivation follow-up + lead-to-cash dashboard |
+| Price (est.) | $2.5–4k setup + $600–1,200/mo | $1.5k + $750–1,500/mo | $3–8k + $500–1,500/mo | $1k + $500–800/mo per location | $750–1.5k + $400–600/mo |
+| MVP (est.) | 3–4 wks | 3–4 wks | 3–5 wks | 5–6 wks (incl. HIPAA work) | 3–4 wks |
+| Biggest pro | Bonding companies require it monthly; done in Excel; best fit for finance skills | Reading long documents is a native AI task; no regulation; one extra win pays the year | Easy-to-measure ROI; small firms underserved | Highest willingness to pay | Easiest to reach; open Jobber API |
+| Biggest con | Needs construction-accounting literacy; data quality from project managers; QB Desktop | Missed-spec liability; must learn spec format; Nomic/Scopebase/Autodesk nearby | Funded rivals moving down-market (Conexiom Relay, Endeavor, WizCommerce, Avent); least-validated pain | HIPAA business-associate agreements; gated Dentrix; Weave/NexHealth/RevenueWell | Overlaps Jobber's native features; GoHighLevel agencies; low prices |
+| Regulation | Low (not CPA-signed statements) | Very low | Very low | High | Medium (texting rules) |

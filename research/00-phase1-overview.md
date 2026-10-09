@@ -44,3 +44,25 @@ Reddit and most practitioner forums were blocked for all agents, so **there are 
 ## Phase 2 update (construction, see 04)
 - **Corrects phase 1:** "no product combines WIP, cash forecast and sub-compliance" is wrong. Adaptive (agentic construction accounting; $30M Series B Sept 2026, $57M total, 750+ contractors per its press release) covers AP, billing, WIP and compliance. Intuit's Aug 2026 release put WIP and over/under-billing reporting, AIA-style billing and change orders into QBO Advanced at no extra cost (confirmed in Intuit's release notes).
 - **Implication:** WIP *software* is commoditizing. The defensible offer is the done-for-you monthly WIP close (collect PM forecasts, reconcile to the ledger, explain variances to the surety), not a WIP report tool.
+
+## Phase 2 update (distributors, see 05)
+- **Beachhead:** independent janitorial/sanitation, packaging and safety-supply distributors (~$3–40M) on QuickBooks Desktop Enterprise, QBO or Acumatica. Reachable through buying groups (AFFLINK 300+ distributors, Triple S 120+) and ISSA.
+- **Avoid:** electrical/plumbing/HVAC distribution (Prokeep, Conexiom on Eclipse/P21/Infor) and foodservice (Pepper $50M Series C Feb 2026, Choco).
+- **Flagship:** PO-to-Order Agent. Starts in shadow mode, then a rep approves each order, then auto-release once field accuracy passes 99%. Prices always come from the ERP.
+- **Corrects phase 1:** QBO *does* have sales orders on Plus/Advanced (UI). API support is unverified, so sandbox-test it on day 1, with Estimates as the fallback.
+- **Biggest threat:** Pepper already publishes janitorial-supply case studies and sells an Order Agent (no QuickBooks on its jan-san ERP list yet). WizCommerce and Intuit could also move down-market.
+
+## Where we landed
+| | Construction (04) | Distributors (05) |
+|---|---|---|
+| Flagship | Done-for-you **Monthly WIP & Surety Packet Desk** | **PO-to-Order Agent** |
+| Entry offer | WIP Health Check, $750–1,500 | Order Desk & Cash Leak Audit with a backtest on the client's own orders, $750–1,500 (credited) |
+| Core price (est.) | $2.5k setup + $1,200–1,800/mo | $3–6k setup + $750–1,500/mo |
+| Value case | Bonding capacity protected and cash pulled forward (lumpy; hours saved alone ≈ $1.4k/mo) | ~$39k/yr illustrative (labor + errors), ~2.9× year-1 ROI; capacity to grow without hiring |
+| Nature | Service-heavy (needs construction-accounting fluency) | Product-like (repeatable software + setup) |
+| Main threat | Intuit QBO Advanced native WIP (Aug 2026); Adaptive ($57M raised) | Pepper (jan-san), WizCommerce, Intuit |
+| Channel | Bond agents, construction CPAs | Buying groups (AFFLINK, Triple S), ISSA |
+
+**Coordinator's read:** distributors is now the stronger *lead* track for an AI builder: the value is measurable, the product repeats across clients, and the buyers are concentrated in buying groups. Construction is a viable second track, but it is mostly an accounting-service business now that the WIP software is commoditizing. Both share one core to build once: email/PDF extraction with an accuracy test set, QuickBooks connectors (QBO + Conductor for Desktop), a human review queue with an audit log, chase agents and a cash dashboard.
+
+**Before building:** run the discovery kits (§ in 04 and 05) with ~10 owners per niche. All prices and ROI are estimates, and no first-hand owner interviews exist yet.
